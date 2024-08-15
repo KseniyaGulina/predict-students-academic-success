@@ -10,7 +10,7 @@
 ## Реализация конвейера
 [тут должна быть картинка]
 
-Источник данных:
+Источник данных: https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention/data
 
 Скрипт для создания потока данных:
 
